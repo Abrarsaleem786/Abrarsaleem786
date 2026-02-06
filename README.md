@@ -117,21 +117,6 @@ University of Poonch Rawalakot, AJK
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abrarsaleem786&show_icons=true&theme=tokyonight" alt="stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abrarsaleem786&layout=compact&theme=tokyonight" alt="langs" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abrarsaleem786&theme=tokyonight" alt="streak" />
-</p>
-
----
 
 ## 🤝 Let's Connect
 
